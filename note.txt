@@ -1,1 +1,3 @@
-Objectif fini au moins la partie back dimanche 
+auth db mongo : user/maximemonnier39/ pass/dFsCCfgpJjyH7uFr
+
+racouric react rfce
